@@ -1,2 +1,2 @@
 # LearnJavaDesigner
- java多线程设计模式详解-------之实例代码
+ java设计模式之禅-------之实例代码
